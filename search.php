@@ -34,6 +34,8 @@
 
             }
 
+
+
             $count = mysqli_num_rows($search_query);
 
             if($count == 0) {

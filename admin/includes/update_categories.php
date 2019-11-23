@@ -1,7 +1,9 @@
     <form action="" method="post">
       <div class="form-group">
          <label for="cat-title">Edit Category</label>
-         
+
+
+
          
          <?php
 

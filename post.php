@@ -134,6 +134,8 @@
         $comment_content = $_POST['comment_content'];
 
 
+        
+
         if (!empty($comment_author) && !empty($comment_email) && !empty($comment_content)) {
 
 

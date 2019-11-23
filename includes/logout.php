@@ -3,6 +3,8 @@
 
 <?php 
 
+
+
 $_SESSION['username'] = null;
 $_SESSION['firstname'] = null;
 $_SESSION['lastname'] = null;

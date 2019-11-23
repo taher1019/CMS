@@ -7,6 +7,8 @@
     }
 
 
+
+
     $query = "SELECT * FROM posts WHERE post_id = $the_post_id  ";
     $select_posts_by_id = mysqli_query($connection,$query);  
 

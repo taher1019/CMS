@@ -3,7 +3,9 @@
 
    if(isset($_POST['create_user'])) {
        
-            
+
+
+       
             $user_firstname    = escape($_POST['user_firstname']);
             $user_lastname     = escape($_POST['user_lastname']);
             $user_role         = escape($_POST['user_role']);

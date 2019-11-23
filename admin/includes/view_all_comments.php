@@ -118,7 +118,9 @@ confirmQuery($update_to_delete);
         $comment_status      = $row['comment_status'];
         $comment_date        = $row['comment_date'];
     
-        
+
+
+
         echo "<tr>";
         
         ?>

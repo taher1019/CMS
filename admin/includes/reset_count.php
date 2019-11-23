@@ -1,6 +1,8 @@
 <?php 
 
 
+
+
 if(isset($_GET['p_id'])) {
 
 		$the_post_id = escape($_GET['p_id']);

@@ -12,7 +12,9 @@
             $post_image        = escape($_FILES['image']['name']);
             $post_image_temp   = escape($_FILES['image']['tmp_name']);
     
-    
+
+
+
             $post_tags         = escape($_POST['post_tags']);
             $post_content      = escape($_POST['post_content']);
             $post_date         = escape(date('d-m-y'));
